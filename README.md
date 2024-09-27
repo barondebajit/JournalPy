@@ -32,6 +32,12 @@ A terminal based journaling system developed in Python.
    ```powershell
    pip install -r requirements.txt
    ```
+## Run
+
+To execute the program, simply run:
+```powershell
+py main.py
+```
 
 ## Contributing
 
